@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
 ## Greedy
 |  |
 | ------- |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -48,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
