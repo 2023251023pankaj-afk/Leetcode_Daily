@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,4 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1678-goal-parser-interpretation) |
 | [1768-merge-strings-alternately](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1768-merge-strings-alternately) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
