@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
@@ -104,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0832-flipping-an-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
