@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
