@@ -60,12 +60,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0709-to-lower-case) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0832-flipping-an-image) |
 ## Divide and Conquer
 |  |
