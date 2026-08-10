@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0832-flipping-an-image) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0041-first-missing-positive) |
+| [0202-happy-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
+| [0202-happy-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0509-fibonacci-number) |
@@ -116,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
