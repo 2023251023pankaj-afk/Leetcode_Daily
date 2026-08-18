@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0088-merge-sorted-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0268-missing-number) |
 ## Sorting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0004-median-of-two-sorted-arrays) |
 | [0190-reverse-bits](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0190-reverse-bits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
