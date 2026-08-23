@@ -149,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1070-product-sales-analysis-iii) |
 | [1148-article-views-i](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1667-fix-names-in-a-table](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1667-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
