@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1528-shuffle-string](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0645-set-mismatch) |
+| [0905-sort-array-by-parity](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
