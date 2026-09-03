@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0125-valid-palindrome) |
@@ -154,4 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/1667-fix-names-in-a-table) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/2023251023pankaj-afk/Leetcode_Daily/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
